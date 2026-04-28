@@ -65,46 +65,6 @@ pokedex/
 
 ---
 
-## 🔗 Navegação entre páginas
-
-A navegação é feita através de **Query String**, enviando o ID do Pokémon na URL:
-
-```
-details.html?id=1
-```
-
-A página de detalhes captura esse parâmetro e realiza uma nova requisição na API para exibir as informações do Pokémon selecionado.
-
----
-
-## 🌐 Como executar o projeto
-
-1. Clone o repositório:
-
-```
-git clone https://github.com/seu-usuario/pokedex.git
-```
-
-2. Acesse a pasta:
-
-```
-cd pokedex
-```
-
-3. Execute um servidor local (exemplo com http-server):
-
-```
-npx http-server
-```
-
-4. Acesse no navegador:
-
-```
-http://localhost:8080
-```
-
----
-
 ## 💡 Melhorias futuras
 
 * 🔍 Campo de busca por nome
