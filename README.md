@@ -49,13 +49,11 @@ pokedex/
 │
 ├── index.html
 ├── details.html
-│
 └── assets/
     ├── css/
     │   ├── global.css
     │   ├── pokedex.css
     │   └── details.css
-    │
     └── js/
         ├── main.js
         ├── details.js
